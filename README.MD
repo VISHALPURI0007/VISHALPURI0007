@@ -1,5 +1,7 @@
 # Hi, I'm Vishal Goswami! 👋
 
+> **Professional Summary:** Dynamic and result-driven Data-Driven Operations Professional with a proven track record in secure banking operations and high-volume healthcare sales conversions. Highly adept at navigating complex enterprise-level platforms like Finacle Core Banking and Corporate CRM software within Secure VPN Environments to streamline operational workflows. Transitioning into Data Analytics with advanced technical expertise across SQL (MySQL), Python, Power BI, and Advanced Excel. Possesses exceptional soft skills, including analytical problem-solving, stakeholder management, and cross-functional communication.
+
 ## 🛠️ Technical Skills Matrix
 * **Database & Core Querying:** SQL (Joins, CTEs, Window Functions), MySQL, MS Access (Queries & Forms), Database Management Systems (DBMS).
 * **Advanced Excel Stack:** Data Wrangling, Pivot Tables & Power Query, Advanced Formulas (VLOOKUP, XLOOKUP, INDEX-MATCH), Conditional Formatting.
