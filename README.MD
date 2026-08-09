@@ -1,13 +1,13 @@
 # Hi, I'm Vishal Goswami! 👋
 
-**Professional Summary:** Dynamic and result-driven Data-Driven Operations Professional with a proven track record in secure banking operations and high-volume healthcare sales conversions. Highly adept at navigating complex enterprise-level platforms like Finacle Core Banking and Corporate CRM software within Secure VPN Environments to streamline operational workflows. Transitioning into Data Analytics with advanced technical expertise across SQL (MySQL), Python, Power BI, and Advanced Excel. Possesses exceptional soft skills, including analytical problem-solving, stakeholder management, and cross-functional communication.
+**Professional Summary:** Dynamic and result-driven Data-Driven Operations Professional transitioning into Data Analytics and Data Science. Equipped with advanced technical expertise across Python (Pandas, NumPy, Scikit-Learn), SQL, Power BI, and Advanced Excel. Proven track record in secure banking operations, database auditing, and high-volume data workflows within secure enterprise environments. Strong foundational knowledge in predictive modeling and machine learning, combined with analytical problem-solving and cross-functional communication skills.
 
 ## 🛠️ Technical Skills Matrix
+* **Python Analytics & Data Science Suite:** Python Programming, Data Manipulation (Pandas, NumPy), Data Visualization (Seaborn, Matplotlib), Exploratory Data Analysis (EDA), Predictive Modeling, Machine Learning Basics (Scikit-Learn).
 * **Database & Core Querying:** SQL (Joins, CTEs, Window Functions), MySQL, MS Access (Queries & Forms), Database Management Systems (DBMS).
 * **Advanced Excel Stack:** Data Wrangling, Pivot Tables & Power Query, Advanced Formulas (VLOOKUP, XLOOKUP, INDEX-MATCH), Conditional Formatting.
-* **Python Analytics Suite:** Data Manipulation (Pandas, NumPy), Data Visualization (Seaborn, Matplotlib), Exploratory Data Analysis (EDA).
-* **Enterprise & Security Tools:** Finacle Core Banking, Proprietary CRM Software, Secure Corporate VPN Environments, MS Word (Documentation).
 * **Business Intelligence (BI):** Power BI Desktop (Data Modeling, DAX Functions, Star Schema), MS PowerPoint (Executive Presentations).
+* **Enterprise & Security Tools:** Finacle Core Banking, Proprietary CRM Software, Secure Corporate VPN Environments, MS Word (Documentation).
 
 ## 💼 Professional Experience
 
@@ -35,7 +35,13 @@
 * **Workshop on (IT) Hardware Components and Software Installation** - *DIMS, Meerut*
   Participated in a comprehensive workshop focused on IT hardware components and software installation, gaining hands-on experience in assembling and troubleshooting computer systems.
 
+* **Data Science Essentials with Python** - *Cisco Networking Academy*
+  Acquired fundamental skills in Python programming for data science, covering data analysis libraries, statistical modeling, and data manipulation techniques.
+
+* **Data Analytics Essentials** - *Cisco Networking Academy*
+  Gained foundational knowledge in data collection, cleaning, and data visualization to drive data-driven decision-making and solve analytical problems.
+
 ## 🗣️ Languages
 * **Hindi** (Native)
 * **English** (Professional)
-*
+
